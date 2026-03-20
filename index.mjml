@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+    <mj-title>Compañia CDS</mj-title>
+    <mj-preview> 8 Marzo de día internacional de la mujer. </mj-preview>
+    <mj-attributes>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper>
+      <mj-section background-color="#f75b00">
+        <mj-column>
+          <mj-image width="736px" src="/images/woman1.jpg" border-radius="5px" />
+        </mj-column>
+        <mj-column background-color="#f75b00" padding-top="50px" vertical-align="middle">
+          <mj-text color="#fff" font-size="50px" font-family="Ubuntu" align="center"> Feliz Día de la Mujer </mj-text>
+          <mj-button href="https://www.unwomen.org/es" background-color="#fff" color="#f75b00" font-size="20px" font-family="sans-serif" align="center"> ONU Mujeres </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f5f3f2">
+        <mj-column>
+          <mj-text color="#2b2a2a" font-size="20px" font-family="sans-serif" align="justify"> En este Día Internacional de la Mujer, queremos honrar a todas las mujeres que han luchado por la igualdad de género y han hecho del mundo un lugar mejor. ¡Gracias por ser una inspiración para todos nosotros! </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fff">
+        <mj-column>
+          <mj-image width="300px" src="/images/heart.jpg" />
+        </mj-column>
+        <mj-column>
+          <mj-text color="#f75b00" font-size="20px" font-family="sans-serif" align="center">
+            <p>Hoy celebramos a las mujeres increíbles que forman parte de nuestro equipo.</p>
+            <p>Gracias por su talento, fuerza y dedicación.</p>
+            <p>Seguimos creciendo juntas, apoyándonos y construyendo un futuro con más oportunidades.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f75b00">
+        <mj-column>
+          <mj-image src="/images/woman2.jpg" alt="" width="300px" height="250px" />
+          <mj-text color="#e6e1de" font-size="15px" font-family="sans-serif" align="justify"> En este día, queremos recordar que la igualdad de género es un derecho humano fundamental y que todos debemos trabajar juntos para lograrla. ¡Feliz Día de la Mujer! </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image src="/images/rose.jpg" alt="" width="300px" height="250px" />
+          <mj-text color="#e6e1de" font-size="15px" font-family="sans-serif" align="justify"> Es un día en el que millones de mujeres en todo el mundo hacen un llamado a la acción con el fin de denunciar la violencia y las desigualdades persistentes. </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image src="/images/woman3.jpg" alt="" width="300px" height="250px" />
+          <mj-text color="#fff" font-size="15px" font-family="sans-serif" align="justify"> Hoy celebramos tu fuerza, tu inteligencia y tu valentía. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#252424">
+        <mj-column width="100%">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" color="#fff">
+            <mj-social-element name="facebook" href="https://www.facebook.com/?locale=es_LA"> Facebook </mj-social-element>
+            <mj-social-element name="youtube" href="https://www.youtube.com/"> Youtube </mj-social-element>
+            <mj-social-element name="instagram" href="https://www.instagram.com/"> Instagram </mj-social-element>
+          </mj-social>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text color="#fff" font-size="15px" font-family="sans-serif" align="center"> © 2026 Todos los derechos reservados. </mj-text>
+          <mj-text color="#fff" font-size="10px" font-family="sans-serif" align="center">
+            <p> Hemos enviado este correo porque optó por recibir actualizaciones periódicas de productos, noticias e invitaciones a eventos de la empresa. Si ya no desea recibir notificaciones, haga clic en el siguiente enlace para <a href="" target="_blank">desuscribirse</a>. </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
